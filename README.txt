@@ -1,3 +1,5 @@
+# This repository has been archived.
+
 Welcome to Apache Mahout!
 
 Mahout is a scalable machine learning library that implements many different
